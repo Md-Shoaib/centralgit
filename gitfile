@@ -1,4 +1,8 @@
-Hello this is fake text
+H ello this is fake text
 new text from singapore
+<<<<<<< HEAD
 
 new text from branch
+=======
+New text from singapore new branch
+>>>>>>> 27a203781bfe945251173a047858d135e2dd6be7
